@@ -2,6 +2,8 @@
 # version 3
 # Adam Wisco and Hugo Bocker
 
+# Testing how this works with actual code
+
 
 # This version has been programmed so that sample output can be printed by the user
 # Main resource used for confirmation of syntax, etc: https://www.tutorialspoint.com/ruby/index.htm
